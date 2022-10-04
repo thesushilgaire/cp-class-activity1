@@ -1,0 +1,14 @@
+{
+  "name": "cp-class-activity1",
+  "version": "1.0.0",
+  "description": "cloud computing class activity 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sushil gaire",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
